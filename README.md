@@ -1,8 +1,10 @@
-# Portfolio
+# Bar Cohen — Portfolio
 
-Personal portfolio site for Bar Cohen, Full-Stack Software Engineer.
+Personal portfolio site for Bar Cohen, Full-Stack Engineer.
 
-Built with Next.js 16 (App Router), React 19, TypeScript, and Tailwind 4.
+**Live:** https://bar-cohen-portfolio.vercel.app
+
+Single-page site built with Next.js 16 (App Router), React 19, TypeScript, and Tailwind 4. No backend, no database, no auth — all content (bio, experience, education, projects, skills) lives in typed constants under `src/constants/` and is rendered by presentational components.
 
 ## Getting started
 
@@ -16,14 +18,18 @@ Open [http://localhost:3000](http://localhost:3000).
 ## Scripts
 
 ```bash
-npm run dev          # start dev server (turbopack)
-npm run build        # production build
-npm run start         # serve the build
-npm run buildAndStart # build then start
-npm run typecheck     # tsc --noEmit
-npm run lint:check    # eslint
-npm run lint:fix      # eslint --fix
+npm run dev           # start dev server (turbopack)
+npm run build         # production build
+npm run start          # serve the build
+npm run buildAndStart  # build then start
+npm run typecheck      # tsc --noEmit
+npm run lint:check     # eslint
+npm run lint:fix       # eslint --fix
 ```
+
+## Editing content
+
+To change copy (bio, an experience entry, a project, a skill), edit the matching file in `src/constants/` — see `docs/architecture.md` for the full map of constants to sections.
 
 ## Links
 
