@@ -32,6 +32,6 @@ export const skills: SkillCategory[] = [
     {
         title: 'Specializations',
         icon: Sparkles,
-        skills: ['AI Integration (OpenAI, Google AI)', 'Code Refactoring', 'System Architecture', 'Scalability & Performance']
+        skills: ['AI Integration (OpenAI, Google AI, Anthropic)', 'Code Refactoring', 'System Architecture', 'Scalability & Performance']
     }
 ]
