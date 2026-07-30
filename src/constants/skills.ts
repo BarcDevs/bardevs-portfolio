@@ -22,16 +22,16 @@ export const skills: SkillCategory[] = [
     {
         title: 'Databases',
         icon: Database,
-        skills: ['MongoDB', 'SQL', 'Database Design']
+        skills: ['PostgreSQL', 'MongoDB', 'SQL', 'Database Design']
     },
     {
         title: 'Tools & Platforms',
         icon: Wrench,
-        skills: ['Git & GitHub', 'Stripe Integration', 'Unity Integration']
+        skills: ['Git & GitHub', 'Docker', 'AWS', 'Stripe Integration']
     },
     {
         title: 'Specializations',
         icon: Sparkles,
-        skills: ['AI-Assisted Development', 'Code Refactoring', 'System Architecture', 'Scalability & Performance']
+        skills: ['AI Integration (OpenAI, Google AI)', 'Code Refactoring', 'System Architecture', 'Scalability & Performance']
     }
 ]

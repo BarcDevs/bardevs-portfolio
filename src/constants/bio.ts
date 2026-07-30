@@ -1,10 +1,8 @@
 export const bio = [
-    'Full-stack developer with strong expertise in React, ' +
-    'TypeScript, Node.js, and the MERN stack. ' +
-    'Skilled in building scalable, user-focused web applications ' +
-    'with clean architecture and modern tools such as Next.js, NestJS, Tailwind, and Shadcn.',
-    'Experienced in designing secure APIs, integrating databases ' +
-    '(MongoDB and SQL), and delivering high-quality, maintainable solutions. ' +
-    'Experienced in AI-assisted development workflows, including refactoring, ' +
-    'stabilizing, and scaling AI-generated code.'
+    'Full-Stack Engineer experienced with React, Node.js, PostgreSQL, and OpenAI, ' +
+    'with expertise in building AI-based digital rehabilitation systems that generate ' +
+    'daily guidance, measurable insights, and continuous motivation, enabling reduced ' +
+    'dropout and increased persistence and success in the recovery process.',
+    'Ready for my next challenge in a company that is looking for scalable full-stack systems, ' +
+    'reliable cloud infrastructure, and clean, maintainable code.'
 ]

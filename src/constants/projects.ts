@@ -2,19 +2,20 @@ import { Project } from '@/types/project'
 
 export const projects: Project[] = [
     {
-        name: 'Drushim Avodot',
-        tagline: 'AI-Powered Job Platform',
+        name: 'WorkonIt.ai',
+        tagline: 'AI-Powered Recruitment Platform',
         description:
-            'Comprehensive job platform with AI-driven features ' +
-            'including job description generation, smart tagging, ' +
-            'chatbot search, and CV optimization',
+            'AI-based recruitment platform built as a freelancer, ' +
+            'with an OpenAI-powered assistant that filters relevant jobs, ' +
+            'rewrites resumes, and drafts job posts, plus a campaign ' +
+            'scheduler that publishes across Facebook, WhatsApp, and Telegram groups.',
         features: [
-            'AI-powered job description generation and optimization',
-            'Intelligent chatbot for job search and recommendations',
-            'CV analysis and optimization tools'
+            'OpenAI-powered assistant for job filtering, resume rewriting, and job post drafting',
+            'Campaign scheduler publishing across Facebook, WhatsApp, and Telegram groups',
+            'Object storage for resumes and media, OTP authentication, and SendGrid email'
         ],
-        techStack: ['React', 'Node.js', 'AI/ML', 'MongoDB'],
-        timeline: '2024-2025',
+        techStack: ['React', 'Node.js', 'OpenAI', 'Vercel', 'DigitalOcean', 'SendGrid'],
+        timeline: '2025',
         links: {
             live: 'https://dev.drushimavodot.co.il'
         }
@@ -34,7 +35,7 @@ export const projects: Project[] = [
             'Email/password and Google OAuth authentication with CSRF protection'
         ],
         techStack: ['Next.js', 'React', 'TypeScript', 'TanStack Query', 'TailwindCSS', 'shadcn/ui', 'Node.js', 'Express', 'PostgreSQL', 'Prisma', 'Google Gemini API'],
-        timeline: '2024-Ongoing',
+        timeline: '2024-Present',
         links: {
             live: 'https://pulse-rehab.vercel.app',
             github: [

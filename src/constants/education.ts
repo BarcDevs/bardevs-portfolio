@@ -2,16 +2,17 @@ import { Education } from '@/types/education'
 
 export const education: Education[] = [
     {
-        institution: 'Ariel University',
-        degree: 'Software Engineering Student',
-        period: '2022-2024',
-        focus: 'Full-stack engineering, algorithms, data structures',
-        notableProject: 'TechTreasure (React, Node.js, MongoDB, Stripe integration)'
+        institution: 'Ariel University College of Engineering',
+        degree: 'Practical Software Engineering',
+        period: '2023-2024',
+        focus: 'Data structures, algorithms, advanced full-stack development, AWS, and cloud architecture',
+        notableProject: 'TechTreasure - full e-commerce platform (React, TypeScript, Node.js, Express, MongoDB, Stripe integration)'
     },
     {
-        institution: 'ORT Singalowski College',
-        degree: 'Software Technician',
+        institution: 'ORT Singalovski College',
+        degree: 'Full-Stack Software Development',
         period: '2021-2022',
-        focus: 'Low-level programming (C, Java), full-stack fundamentals'
+        focus: 'Algorithmics, C, Java, JavaScript, and RESTful API design',
+        notableProject: 'BE-FIT - full-stack fitness platform (Node.js, Express, MongoDB, JWT authentication, Google OAuth, PayPal)'
     }
 ]
