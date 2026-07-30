@@ -5,8 +5,8 @@ import { Button } from '@/components/ui/button'
 const DownloadCvButton = ({}) => {
     const handleDownload = () => {
         const link = document.createElement('a')
-        link.href = '/Bar_Cohen__Full-Stack_developer_CV.pdf'
-        link.download = 'Bar_Cohen_Full-Stack_Developer_CV.pdf'
+        link.href = '/Bar%20Cohen%20-%20Resume.pdf'
+        link.download = 'Bar Cohen - Resume.pdf'
         link.click()
     }
 
