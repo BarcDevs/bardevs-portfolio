@@ -4,7 +4,7 @@ export const experiences: Experience[] = [
     {
         company: 'Pulse',
         role: 'Full-Stack Engineer',
-        period: '2024-Present',
+        period: '2026-Present',
         brief: 'AI-driven rehabilitation platform delivering personalized insights and motivation to reduce dropout and drive recovery success',
         achievements: [
             'Built an AI-driven rehabilitation platform end-to-end with React, TypeScript, Node.js, and PostgreSQL',
@@ -25,7 +25,7 @@ export const experiences: Experience[] = [
     {
         company: 'WorkonIt.ai',
         role: 'Full-Stack Engineer',
-        period: '2025',
+        period: '2024-2025',
         brief: 'AI-based recruitment platform built as a freelancer, from monolith to production beta',
         achievements: [
             'Developed an AI-based recruitment platform as a freelancer with an OpenAI-powered assistant that filters relevant jobs, rewrites resumes, and drafts job posts',

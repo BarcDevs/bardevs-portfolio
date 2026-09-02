@@ -2,6 +2,11 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
+## CV source of truth
+SOT dir: `C:\Users\66bar\Claude\career\me\coaching-content\resume-source\`. When told to sync:
+1. Read `Bar Cohen - Resume.md` and align `src/constants/bio.ts`, `experiences.ts`, `education.ts`, `skills.ts` to match.
+2. Copy `Bar Cohen - Resume.pdf` over `public/Bar Cohen - Resume.pdf` (filename must stay exact — `download-cv-button.tsx` hardcodes it).
+
 ## What this is
 Single-page personal portfolio site (Next.js 16 App Router, React 19, TypeScript, Tailwind 4). No backend, no database, no auth. `next.config.ts` enables `reactCompiler: true`. All page content (bio, experience, education, projects, skills, nav links) lives in `src/constants/*.ts` as typed data, rendered by presentational components under `src/components/`.
 
