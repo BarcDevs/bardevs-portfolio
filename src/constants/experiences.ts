@@ -14,7 +14,7 @@ export const experiences: Experience[] = [
             'Cut page load time by over 90%, from 8-12 seconds to under 0.5 seconds, by migrating to a Next.js client and fixing a memory-leak build bug',
             'Saved ~50K tokens per run (35-40% of context) by replacing heavy integrations with lightweight API scripts, restoring full development velocity'
         ],
-        techStack: ['React', 'TypeScript', 'Node.js', 'PostgreSQL', 'Next.js', 'Docker', 'AWS', 'Google AI'],
+        techStack: ['React', 'TypeScript', 'Node.js', 'PostgreSQL', 'Next.js', 'Docker', 'AWS', 'Claude Code', 'RAG', 'AI Agents'],
         details: [
             'Owning end-to-end development of a healthcare platform from architecture to deployment',
             'Delivering AI-generated insights for early detection of declining patient engagement',
