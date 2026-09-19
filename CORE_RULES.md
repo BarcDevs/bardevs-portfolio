@@ -22,6 +22,7 @@
 - Avoid unnecessary `| null`, `| undefined` for optional types unless explicitly required
 - Short conditional blocks — avoid `{` when not needed
 - Don't make line-breaking too strict — break only when it improves readability or hits length threshold
+- Hooks that return 5+ values (e.g. a form hook returning its form, handlers and dialog state): keep the return value as one object named after the feature (`const addItem = useAddItemForm()`) and use `addItem.field` at the usage site - don't destructure the whole return into individual local names. Destructure only 1-4 values you genuinely need, or nested helpers such as `form`
 
 ## Language & Format
 - Quotes: single quotes (') for strings, imports, JSX props; backtick allowed for templates
