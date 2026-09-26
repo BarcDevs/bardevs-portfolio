@@ -2,7 +2,7 @@
 
 Personal portfolio site for Bar Cohen, Full-Stack Engineer.
 
-**Live:** https://bar-cohen-portfolio.vercel.app
+**Live:** https://portfolio.bardevs.com/
 
 Single-page site built with Next.js 16 (App Router), React 19, TypeScript, and Tailwind 4. No backend, no database, no auth — all content (bio, experience, education, projects, skills) lives in typed constants under `src/constants/` and is rendered by presentational components.
 
