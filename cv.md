@@ -2,7 +2,7 @@
 
 **Full-Stack Engineer**
 
-+972-54-355-2466 | barcprodevelopments@gmail.com | [LinkedIn](https://www.linkedin.com/in/barcohendev) | [GitHub](https://github.com/BarcDevs)
++972-54-355-2466 | barcohendev@gmail.com | [LinkedIn](https://www.linkedin.com/in/barcohendev) | [GitHub](https://github.com/BarcDevs)
 
 ## Summary
 
