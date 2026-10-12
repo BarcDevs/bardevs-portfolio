@@ -15,7 +15,7 @@ export const projects: Project[] = [
             'Object storage for resumes and media, OTP authentication, and SendGrid email'
         ],
         techStack: ['React', 'Node.js', 'OpenAI', 'Vercel', 'DigitalOcean', 'SendGrid'],
-        timeline: '2025',
+        timeline: '2024-2025',
         links: {
             live: 'https://dev.drushimavodot.co.il'
         }
@@ -35,7 +35,7 @@ export const projects: Project[] = [
             'Email/password and Google OAuth authentication with CSRF protection'
         ],
         techStack: ['Next.js', 'React', 'TypeScript', 'TanStack Query', 'TailwindCSS', 'shadcn/ui', 'Node.js', 'Express', 'PostgreSQL', 'Prisma', 'Google Gemini API'],
-        timeline: '2024-Present',
+        timeline: '2025-Present',
         links: {
             live: 'https://pulse-rehab.vercel.app',
             github: [

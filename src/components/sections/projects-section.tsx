@@ -7,7 +7,7 @@ const ProjectsSection = () => (
     <Section
         id="projects"
         headline={'Featured Projects'}
-        description={'Real-world applications demonstrating full-stack expertise'}
+        description={'Real-world applications demonstrating backend and AI expertise'}
     >
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
             {projects.map((project) => (
