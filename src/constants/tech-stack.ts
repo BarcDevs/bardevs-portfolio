@@ -1,6 +1,6 @@
 export const techStack = [
-    'Building Scalable Web Applications',
-    'React • TypeScript • Node.js',
-    'MERN Stack Expert',
+    'Building AI Backend Infrastructure',
+    'Node.js • PostgreSQL • RAG',
+    'AI Agents Engineer',
     'AI-Powered Solutions'
 ]

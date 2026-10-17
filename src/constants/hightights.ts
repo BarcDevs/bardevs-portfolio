@@ -13,8 +13,8 @@ export const highlights = [
     },
     {
         icon: Layers,
-        title: 'Backend Development',
-        description: 'APIs, data & cloud infrastructure'
+        title: 'Backend Engineering',
+        description: 'APIs, databases & AI infrastructure'
     },
     {
         icon: Zap,

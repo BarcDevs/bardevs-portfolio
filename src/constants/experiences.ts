@@ -4,10 +4,10 @@ export const experiences: Experience[] = [
     {
         company: 'Pulse',
         role: 'Full-Stack Engineer',
-        period: '2026-Present',
-        brief: 'AI-driven rehabilitation platform delivering personalized insights and motivation to reduce dropout and drive recovery success',
+        period: '2025-Present',
+        brief: 'AI-driven recovery platform delivering personalized insights and motivation to reduce dropout and drive recovery success',
         achievements: [
-            'Built an AI-driven rehabilitation platform end-to-end with React, TypeScript, Node.js, and PostgreSQL',
+            'Built an AI-driven recovery platform end-to-end with React, TypeScript, Node.js, and PostgreSQL',
             'Designed daily progress tracking, goal setting, and a community forum with an AI assistant delivering personalized insights and motivation',
             'Integrated Google AI for conversational support, containerized the system with Docker, and deployed the MVP to AWS',
             'Engineered a fleet of pre-commit AI review agents for code review, style enforcement, architecture auditing, duplication removal, and security scanning',

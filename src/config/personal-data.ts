@@ -1,6 +1,6 @@
 export const personalData = {
     name: 'Bar Cohen',
-    profession: 'Backend Software Engineer',
+    profession: 'Backend Engineer',
     email: 'barcohendev@gmail.com',
     phone: '054-3552466',
     links: {

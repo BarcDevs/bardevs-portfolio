@@ -2,23 +2,22 @@ import { Metadata } from 'next'
 
 export const meta: Metadata = {
     metadataBase: new URL('https://bardevs-portfolio.vercel.app'),
-    title: 'Bar Cohen - Backend Software Engineer | Node.js, PostgreSQL, AI Agents',
+    title: 'Bar Cohen - Backend Engineer | Node.js, PostgreSQL, AI Agents',
     description:
-        'Backend Software Engineer with 2+ years experience ' +
-        'specializing in Node.js, PostgreSQL, RAG, and AI agents. ' +
-        'Building scalable AI backend infrastructure with reliable cloud deployment and clean architecture.',
+        'Backend Engineer with 2+ years experience ' +
+        'specializing in Node.js, PostgreSQL, RAG, and AI Agents. ' +
+        'Building AI backend infrastructure that reduces patient recovery time.',
     keywords: [
         'Bar Cohen',
-        'Backend Developer',
+        'Backend Engineer',
         'Software Engineer',
+        'AI Agents',
+        'RAG',
+        'PostgreSQL',
+        'AWS',
         'TypeScript',
         'Node.js',
         'REST API',
-        'PostgreSQL',
-        'RAG',
-        'AI Agents',
-        'AWS',
-        'MongoDB',
         'Database Design',
         'AI Integration',
         'System Architecture'
@@ -27,11 +26,11 @@ export const meta: Metadata = {
         name: 'Bar Cohen'
     }],
 openGraph: {
-    title: 'Bar Cohen - Backend Software Engineer',
+    title: 'Bar Cohen - Backend Engineer',
     description:
-      'Backend Software Engineer with 2+ years experience ' +
-        'specializing in Node.js, PostgreSQL, RAG, and AI agents. ' +
-        'Building scalable AI backend infrastructure with reliable cloud deployment and clean architecture.',
+      'Backend Engineer with 2+ years experience ' +
+        'specializing in Node.js, PostgreSQL, RAG, and AI Agents. ' +
+        'Building AI backend infrastructure that reduces patient recovery time.',
     url: 'https://bardevs-portfolio.vercel.app/',
     siteName: 'Bar Cohen Portfolio',
     type: 'website',
@@ -41,15 +40,15 @@ openGraph: {
         url: '/og-image.png',
         width: 1200,
         height: 630,
-        alt: 'Bar Cohen - Backend Engineer | AI-Powered Web Platforms'
+        alt: 'Bar Cohen - Backend Engineer | AI-Powered Backend Systems'
       }
     ]
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Bar Cohen - Backend Software Engineer',
+    title: 'Bar Cohen - Backend Engineer',
     description:
-      'Backend Software Engineer specializing in Node.js, PostgreSQL, and AI-powered backend systems.',
+      'Backend Engineer specialized in Node.js, PostgreSQL, RAG, and AI Agents.',
     images: ['/og-image.png']
   }
 }
