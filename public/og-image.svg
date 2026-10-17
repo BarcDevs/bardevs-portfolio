@@ -60,7 +60,7 @@
       font-weight="500" 
       fill="#77c6b0"
       letter-spacing="-0.5">
-      Full-Stack Engineer | AI-Powered Web Platforms
+      Backend Engineer | AI-Powered Web Platforms
     </text>
     
     <!-- Tech stack -->
@@ -72,7 +72,7 @@
       font-weight="400" 
       fill="#8896a8"
       letter-spacing="0.5">
-      React · TypeScript · Node.js · AI-Driven Web Platforms
+      Node.js · TypeScript · PostgreSQL · AI Agents
     </text>
   </g>
   

@@ -1,7 +1,6 @@
 export const bio = [
-    'Full-Stack Engineer experienced with React, Node.js, PostgreSQL, Claude Code, RAG, and AI Agents, ' +
-    'with expertise in building AI-powered digital rehabilitation systems that increase patient adherence, ' +
-    'reduce dropout rates, shorten recovery timelines, and help patients return to daily life in an optimal timeframe.',
-    'Ready for my next challenge in a company that is looking for scalable full-stack systems, ' +
+    'Backend Engineer experienced with Node.js, PostgreSQL, Claude Code, RAG, and AI Agents, ' +
+    'with a proven track record of building AI backend infrastructure that reduces patient recovery time.',
+    'Ready for my next challenge in a company building scalable products, ' +
     'reliable cloud infrastructure, and clean, maintainable code.'
 ]

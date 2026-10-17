@@ -1,6 +1,6 @@
 # Bar Cohen — Portfolio
 
-Personal portfolio site for Bar Cohen, Full-Stack Engineer.
+Personal portfolio site for Bar Cohen, Backend Engineer.
 
 **Live:** https://portfolio.bardevs.com/
 
