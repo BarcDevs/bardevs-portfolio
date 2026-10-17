@@ -10,7 +10,7 @@ const AboutSection = () => (
         id={'about'}
         bgMuted
         headline={'About Me'}
-        description={'Full-stack developer building scalable solutions'}
+        description={'Backend developer building scalable solutions'}
     >
         <div className="grid md:grid-cols-2 gap-12 items-start">
             <div className="space-y-4">
